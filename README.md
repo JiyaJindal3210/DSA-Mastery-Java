@@ -2,6 +2,11 @@
 
 # 🚀 DSA Mastery in Java
 
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![DSA](https://img.shields.io/badge/Focus-DSA-blue)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Status](https://img.shields.io/badge/Progress-In%20Progress-brightgreen)
+
 Welcome to my Data Structures & Algorithms repository!
 
 This repository documents my journey of learning DSA **pattern by pattern** using **Java**. Instead of randomly solving problems, I focus on understanding the intuition behind each pattern and solving representative problems.
