@@ -1,4 +1,4 @@
-# DSA-JAVA
+# DSA-Mastery-Java
 
 # 🚀 DSA Mastery in Java
 
