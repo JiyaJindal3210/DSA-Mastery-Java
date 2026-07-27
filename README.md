@@ -26,7 +26,7 @@ This repository documents my journey of learning DSA **pattern by pattern** usin
 
 ### Sliding Window
 - [x] Fixed Sliding Window
-- [ ] Variable Sliding Window
+- [x] Variable Sliding Window
 - [ ] Exactly K Pattern
 
 ### Two Pointers
@@ -108,9 +108,10 @@ DSA-JAVA
 ## 📌 Current Progress
 
 ✅ Sliding Window → Fixed Window
+✅ Variable Sliding Window
 
 Next:
-➡️ Variable Sliding Window
+➡️ Exactly K Pattern
 
 ---
 
